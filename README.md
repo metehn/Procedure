@@ -8,3 +8,5 @@ BEGIN
 	set salesPrice = newSalesPrice
 	where Product.productId=productId;
 END
+
+
